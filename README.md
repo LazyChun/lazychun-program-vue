@@ -1,24 +1,13 @@
 # lazychun-program-vue
+A vue environment for building lazychun programs.
 
-## Project setup
-```
+##运行
 yarn install
-```
 
-### Compiles and hot-reloads for development
-```
 yarn serve
-```
 
-### Compiles and minifies for production
-```
+##打包
 yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+##发布到LazyChun
+将 /dist 目录下的bundle.js 文件上传即可
